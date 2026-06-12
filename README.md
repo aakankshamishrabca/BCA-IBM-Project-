@@ -1,31 +1,60 @@
-# BCA IBM Project
+# Crime Locations Analysis
 
 ## Project Overview
-This project was developed as part of the IBM SkillsBuild Program.
 
-The project focuses on Data Visualization and analysis using graphical representations to understand data more effectively.
+Crime Locations Analysis is a data visualization project aimed at identifying crime patterns, trends, and geographical hotspots through visual analytics.
+
+The project uses Python and Power BI to transform raw crime data into meaningful visual representations, helping users understand crime distribution and trends more effectively.
 
 ## Objectives
-- Understand data visualization concepts
-- Analyze datasets
-- Create meaningful charts and graphs
-- Present insights through visual representations
 
-## Tools and Technologies
-- IBM SkillsBuild
+- Analyze crime-related data.
+- Identify crime hotspots and trends.
+- Visualize crime patterns using different chart types.
+- Support data-driven decision-making through insights.
+
+## Tools & Technologies
+
+- Python
+- Power BI
 - Data Visualization
-- Microsoft Excel / Python (if used)
 - GitHub
 
-## Project Report
-The complete project report is available in this repository as:
-BCA - IBM Project.pdf
+## Visualizations Used
 
-## Learning Outcomes
-- Improved analytical thinking
-- Better understanding of data visualization
-- Practical experience in project development
+### Bar Chart
+Used to compare crime frequencies across different categories.
+
+### Line Chart
+Used to identify crime trends over time.
+
+### Scatter Plot
+Used to analyze relationships between variables in the dataset.
+
+### Heatmap
+Used to visualize crime concentration across locations.
+
+### Box Plot
+Used to detect data distribution and outliers.
+
+## Key Insights
+
+- Identified locations with high crime concentration.
+- Observed trends and patterns in crime occurrences.
+- Highlighted potential hotspots through heatmap analysis.
+- Detected variations and outliers using box plot analysis.
+
+## Project Report
+
+The complete project documentation is available in:
+
+**BCA - IBM Project.pdf**
 
 ## Author
-Aakanksha Mishra
+
+**Aakanksha Mishra**
 BCA Student
+
+## Repository Link
+
+This repository contains the project report and supporting documentation for the Crime Locations Analysis project.
